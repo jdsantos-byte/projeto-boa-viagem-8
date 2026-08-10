@@ -307,7 +307,7 @@ export default function DashboardCorporativo() {
                 <div>
 
                   <strong className="expansion-number">
-                    1054
+                    1024
                   </strong>
 
                   <span className="expansion-label">
