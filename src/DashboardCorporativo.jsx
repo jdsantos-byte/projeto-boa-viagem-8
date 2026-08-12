@@ -3,7 +3,7 @@ import "./styles.css";
 
 import logo from "./logo.png";
 import arquitetura from "./Arquitetura da Solução.png";
-import plantaBaixa from "./projeto-boa-viagem.png";
+import plantaBaixa from "./planta baixa.png";
 
 function Icon({ type }) {
   const icons = {
