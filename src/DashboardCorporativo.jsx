@@ -77,7 +77,7 @@ export default function DashboardCorporativo() {
     },
     {
       nome: "Execução",
-      percentual: "68%",
+      percentual: "90%",
     },
     {
       nome: "Testes",
@@ -85,18 +85,18 @@ export default function DashboardCorporativo() {
     },
     {
       nome: "Implantação",
-      percentual: "25%",
+      percentual: "50%",
     },
     {
       nome: "Concluído",
-      percentual: "—",
+      percentual: "70%",
     },
   ];
 
   const cronograma = [
     {
       etapa: "Infraestrutura",
-      percentual: 20,
+      percentual: 80,
     },
     {
       etapa: "Fibra Óptica",
@@ -104,11 +104,11 @@ export default function DashboardCorporativo() {
     },
     {
       etapa: "Rack e Organização",
-      percentual: 20,
+      percentual: 100,
     },
     {
       etapa: "Configuração",
-      percentual: 90,
+      percentual: 100,
     },
     {
       etapa: "Entrega",
@@ -373,7 +373,7 @@ export default function DashboardCorporativo() {
                 <div className="progress-circle-inner">
 
                   <strong>
-                    68%
+                    75%
                   </strong>
 
                   <span>
