@@ -77,19 +77,19 @@ export default function DashboardCorporativo() {
     },
     {
       nome: "Execução",
-      percentual: "75%",
+      percentual: "80%",
     },
     {
       nome: "Testes",
-      percentual: "90%",
+      percentual: "92,5%",
     },
     {
       nome: "Implantação",
-      percentual: "12,5%",
+      percentual: "40%",
     },
     {
       nome: "Concluído",
-      percentual: "75%",
+      percentual: "78%",
     },
   ];
 
@@ -100,7 +100,7 @@ export default function DashboardCorporativo() {
     },
     {
       etapa: "Fibra Óptica",
-      percentual: 12.5,
+      percentual: 37.5,
     },
     {
       etapa: "Rack e Organização",
@@ -112,7 +112,7 @@ export default function DashboardCorporativo() {
     },
     {
       etapa: "Entrega",
-      percentual: 20,
+      percentual: 40,
     },
   ];
 
