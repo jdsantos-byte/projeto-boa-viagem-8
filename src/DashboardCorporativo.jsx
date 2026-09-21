@@ -373,7 +373,7 @@ export default function DashboardCorporativo() {
                 <div className="progress-circle-inner">
 
                   <strong>
-                    75%
+                     78%
                   </strong>
 
                   <span>
