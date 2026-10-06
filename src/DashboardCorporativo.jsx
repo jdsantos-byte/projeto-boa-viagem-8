@@ -85,11 +85,11 @@ export default function DashboardCorporativo() {
     },
     {
       nome: "Implantação",
-      percentual: "37,5%",
+      percentual: "50%",
     },
     {
       nome: "Concluído",
-      percentual: "78%",
+      percentual: "80%",
     },
   ];
 
@@ -100,7 +100,7 @@ export default function DashboardCorporativo() {
     },
     {
       etapa: "Fibra Óptica",
-      percentual: 40,
+      percentual: 50,
     },
     {
       etapa: "Rack e Organização",
@@ -112,7 +112,7 @@ export default function DashboardCorporativo() {
     },
     {
       etapa: "Entrega",
-      percentual: 37.5,
+      percentual: 50,
     },
   ];
 
@@ -373,7 +373,7 @@ export default function DashboardCorporativo() {
                 <div className="progress-circle-inner">
 
                   <strong>
-                     78%
+                    80%
                   </strong>
 
                   <span>
