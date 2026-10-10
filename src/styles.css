@@ -400,7 +400,6 @@ body {
   margin-bottom: 8px;
 }
 
-
 .kpi-value {
   display: block;
 
@@ -410,6 +409,12 @@ body {
 
   font-weight: 800;
 
+  white-space: nowrap;
+}
+
+  .kpi-value-investimento {
+  font-size: clamp(17px, 1.35vw, 23px);
+  letter-spacing: -0.8px;
   white-space: nowrap;
 }
 

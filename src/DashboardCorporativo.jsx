@@ -250,10 +250,10 @@ export default function DashboardCorporativo() {
                     {item.titulo}
                   </span>
 
-                  <strong className="kpi-value">
+                  <strong className={`kpi-value ${item.titulo === "Investimento Total" ? "kpi-value-investimento" : ""}`}>
                     {item.valor}
                   </strong>
-
+                      
                 </div>
 
               </div>
