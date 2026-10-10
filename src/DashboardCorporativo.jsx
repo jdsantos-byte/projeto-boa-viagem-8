@@ -28,7 +28,7 @@ export default function DashboardCorporativo() {
   const kpis = [
     {
       titulo: "Investimento Total",
-      valor: "R$ 25K",
+      valor: "R$ 26.471,19",
       detalhe: "Projeto Corporativo",
       icon: "money",
     },
@@ -85,11 +85,11 @@ export default function DashboardCorporativo() {
     },
     {
       nome: "Implantação",
-      percentual: "50%",
+      percentual: "62,5%",
     },
     {
       nome: "Concluído",
-      percentual: "80%",
+      percentual: "85%",
     },
   ];
 
@@ -100,7 +100,7 @@ export default function DashboardCorporativo() {
     },
     {
       etapa: "Fibra Óptica",
-      percentual: 50,
+      percentual: 62.5,
     },
     {
       etapa: "Rack e Organização",
@@ -112,7 +112,7 @@ export default function DashboardCorporativo() {
     },
     {
       etapa: "Entrega",
-      percentual: 50,
+      percentual: 62.5,
     },
   ];
 
@@ -373,7 +373,7 @@ export default function DashboardCorporativo() {
                 <div className="progress-circle-inner">
 
                   <strong>
-                    80%
+                    85%
                   </strong>
 
                   <span>
